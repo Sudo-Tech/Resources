@@ -1,2 +1,2 @@
 # Resources
-Random Resources
+Just some random resources
